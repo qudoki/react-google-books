@@ -16,12 +16,13 @@
  This app is a React-based Google Books Search. The construction used React components, helper/util functions, and utilized React lifecycle methods to query and display books based on user searches. We also use Node, Express and MongoDB so that users can save books to review or purchase later. The front-end React app will auto-reload as it's updated via webpack dev server, and the backend Express app will auto-reload independently with nodemon. Technologies include Javascript, React.js, JSX, Express/Node.js, MongoDB and Mongoose.
 
 # Table of Contents
-- [Installation](https://github.com/qudoki/react-google-books/blob/master/Develop/README.md#installation)
-- [Usage](https://github.com/qudoki/react-google-books/blob/master/Develop/README.md#usage)
-- [Tests](https://github.com/qudoki/react-google-books/blob/master/Develop/README.md#usage)
-- [Contributing](https://github.com/qudoki/react-google-books/blob/master/Develop/README.md#contributions)
-- [Questions](https://github.com/qudoki/react-google-books/blob/master/Develop/README.md#questions)
-- [License](https://github.com/qudoki/react-google-books/blob/master/Develop/README.md#license)
+- [Installation](https://github.com/qudoki/react-google-books/blob/main/README.md#installation)
+- [Usage](https://github.com/qudoki/react-google-books/blob/main/README.md#usage)
+- [Screenshots](https://github.com/qudoki/react-google-books/blob/main/README.md#screenshots)
+- [Tests](https://github.com/qudoki/react-google-books/blob/main/README.md#usage)
+- [Contributing](https://github.com/qudoki/react-google-books/blob/main/README.md#contributions)
+- [Questions](https://github.com/qudoki/react-google-books/blob/main/README.md#questions)
+- [License](https://github.com/qudoki/react-google-books/blob/main/README.md#license)
 
 
 ## Installation:
@@ -30,6 +31,15 @@
 
 ## Usage:
 - There currently are no tests, but in the future, the user would run "npm test" and follow the prompts.
+
+## Screenshots:
+
+#### Home Page
+![ScreenShot](./client/public/screenshots/home.png)
+#### Searching Books
+![ScreenShot](./client/public/screenshots/search.png)
+#### Saving Books
+![ScreenShot](./client/public/screenshots/save.png)
 
 
 ## Contributing:
