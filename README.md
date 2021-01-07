@@ -1,9 +1,9 @@
 # React Google Books Search
 
-### Deployment
+### Deployment & Repository
 
-[Github Repository Link](https://github.com/qudoki/react-google-books)
-[Heroku Deployment](https://pacific-retreat-75457.herokuapp.com/)
+- [Heroku Deployment](https://pacific-retreat-75457.herokuapp.com/)
+- [Github Repository Link](https://github.com/qudoki/react-google-books)
 
 ### Technical Requirements
 * Javascript
@@ -16,12 +16,12 @@
  This app is a React-based Google Books Search. The construction used React components, helper/util functions, and utilized React lifecycle methods to query and display books based on user searches. We also use Node, Express and MongoDB so that users can save books to review or purchase later. The front-end React app will auto-reload as it's updated via webpack dev server, and the backend Express app will auto-reload independently with nodemon. Technologies include Javascript, React.js, JSX, Express/Node.js, MongoDB and Mongoose.
 
 # Table of Contents
-- [Installation](https://github.com/qudoki/react-google-books/blob/master/Develop/SampleProject.md#installation)
-- [Usage](https://github.com/qudoki/react-google-books/blob/master/Develop/SampleProject.md#usage)
-- [Tests](https://github.com/qudoki/react-google-books/blob/master/Develop/SampleProject.md#usage)
-- [Contributing](https://github.com/qudoki/react-google-books/blob/master/Develop/SampleProject.md#contributions)
-- [Questions](https://github.com/qudoki/react-google-books/blob/master/Develop/SampleProject.md#questions)
-- [License](https://github.com/qudoki/react-google-books/blob/master/Develop/SampleProject.md#license)
+- [Installation](https://github.com/qudoki/react-google-books/blob/master/Develop/README.md#installation)
+- [Usage](https://github.com/qudoki/react-google-books/blob/master/Develop/README.md#usage)
+- [Tests](https://github.com/qudoki/react-google-books/blob/master/Develop/README.md#usage)
+- [Contributing](https://github.com/qudoki/react-google-books/blob/master/Develop/README.md#contributions)
+- [Questions](https://github.com/qudoki/react-google-books/blob/master/Develop/README.md#questions)
+- [License](https://github.com/qudoki/react-google-books/blob/master/Develop/README.md#license)
 
 
 ## Installation:
@@ -42,9 +42,8 @@
 ## Questions:
 If you have any questions, please feel free to reach me via Github or email below.
 
-[Github Profile](https://github.com/qudoki)
-
-[Email Address]<qdong327@gmail.com>
+- [Github Profile](https://github.com/qudoki)
+- [Email Address](qdong327@gmail.com)
 
  
 ## License: 
